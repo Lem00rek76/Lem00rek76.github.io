@@ -1,3 +1,8 @@
+---
+layout: home
+title: "Homelab – dokumentacja"
+---
+
 # Homelab – dokumentacja
 
 Witaj w dokumentacji mojego homelabu.
