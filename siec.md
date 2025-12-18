@@ -46,3 +46,4 @@ Przykładowe komendy testowe z klientów:
 ```bash
 nslookup portainer.lab
 nslookup gitea.lab
+Oczekiwany wynik: odpowiedź DNS wskazująca na 10.10.20.10.
