@@ -1,29 +1,17 @@
 ---
-layout: home
+layout: page
 title: "Homelab – dokumentacja"
+permalink: /
 ---
 
 # Homelab – dokumentacja
 
 Witaj w dokumentacji mojego homelabu.
 
-## Sprzęt
+## Spis treści
 
-- Serwer: …
-- NAS: …
-- Router: …
-
-## Usługi
-
-- Hypervisor: …
-- Home Assistant
-- VPN
-- Monitoring (Prometheus, Grafana, Zabbix, itp.)
-
-## Sieć
-
-- Topologia sieci
-- VLAN-y
-- Reguły firewall
-
-_Dalsza dokumentacja wkrótce…_
+- [Sprzęt](/sprzet)
+- [Sieć](/siec)
+- [Usługi](/uslugi)
+- [Backupy](/backupy)
+- [Configi](/configi)
