@@ -1,14 +1,15 @@
-title: "Homelab – dokumentacja"
-description: "Dokumentacja mojego homelabu"
-theme: minima
+---
+layout: page
+title: "Configi"
+permalink: /configi
+---
 
-# Ustawienia nawigacji (opcjonalne, na później)
-# collections:
-#   docs:
-#     output: true
-#     permalink: /:collection/:name
+# Configi
 
-# Dane autora (opcjonalne)
-author:
-  name: "Lem00rek"
-  email: ""
+Miejsce na zapisanie ważnych konfiguracji (lub odnośników do nich).
+
+## Router / Firewall
+
+```bash
+# Przykładowy fragment konfiguracji firewall / NAT
+# (tu możesz wkleić realne fragmenty)
