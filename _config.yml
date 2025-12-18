@@ -1,0 +1,14 @@
+title: "Homelab – dokumentacja"
+description: "Dokumentacja mojego homelabu"
+theme: minima
+
+# Ustawienia nawigacji (opcjonalne, na później)
+# collections:
+#   docs:
+#     output: true
+#     permalink: /:collection/:name
+
+# Dane autora (opcjonalne)
+author:
+  name: "Lem00rek"
+  email: ""
